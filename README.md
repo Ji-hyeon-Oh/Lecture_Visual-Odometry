@@ -33,4 +33,8 @@ python midterm_automatic_stitching_of_two_images.py --input_left_dir=image_left.
 ```
 
 ## Results
+![input_case1](https://github.com/Ji-hyeon-Oh/Lecture_Visual-Odometry/assets/110597195/14885718-6681-4a02-8673-e50d59d77d9f)
+![input_case2](https://github.com/Ji-hyeon-Oh/Lecture_Visual-Odometry/assets/110597195/d3c6c5cf-3a9f-4607-a1ec-8697b30b6172)
+![result](https://github.com/Ji-hyeon-Oh/Lecture_Visual-Odometry/assets/110597195/583c184b-6c9a-4fd7-9310-167c30fb7ce2)
+
 
